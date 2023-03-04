@@ -149,6 +149,7 @@ label #cancel {
   
     .sidebar a i {
         margin-left: -10px;
+        color: black;
     }
   
     a:hover {
@@ -159,6 +160,7 @@ label #cancel {
     .sidebar a:hover span {
         opacity: 1;
         visibility: visible;
+        color: black;
     }
   
 }
